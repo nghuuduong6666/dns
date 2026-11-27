@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://dns.nextdns.io/a2dd89</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Locket Gold</string>
+			<key>PayloadDisplayName</key>
+			<string>NgHuuDuong</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.a2dd89.nghuuduong.dns</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A2DD8900-1111-2222-3333-444455556666</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Chặn Thu Hồi Locket Gold</string>
+	<key>PayloadDisplayName</key>
+	<string>NgHuuDuong - NextDNS a2dd89</string>
+	<key>PayloadIdentifier</key>
+	<string>io.nextdns.a2dd89.nghuuduong.profile</string>
+	<key>PayloadOrganization</key>
+	<string>NgHuuDuong</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A2DD8900-7777-8888-9999-000011112222</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
